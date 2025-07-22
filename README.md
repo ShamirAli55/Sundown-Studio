@@ -4,7 +4,7 @@ A responsive, animated clone of the **Sundown Studio** website built using:
 
 - 🚀 [Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll) — for smooth scrolling and scroll-based animations  
 - 🎯 [Swiper.js](https://swiperjs.com/) — for interactive sliders and carousels  
-- 🧱 HTML5, CSS3, and Vanilla JavaScript — for structure, styling, and interactivity  
+- 🧱 HTML5, CSS3, and Core JavaScript — for structure, styling, and interactivity  
 
 ---
 

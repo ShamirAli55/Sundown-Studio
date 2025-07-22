@@ -414,7 +414,6 @@ nav h3 {
 
 #footer h1 {
     font-size: 23vw;
-    /* background-color:#FD330A; */
 }
 
 #footer-div {
@@ -484,7 +483,6 @@ nav h3 {
     nav {
         padding: 8vw 5vw;
         background-color: #EFEAE3;
-        /* padding: 0 5vw; */
     }
 
     nav img {
@@ -576,7 +574,7 @@ nav h3 {
         display: inline-block;
     }
 
-    #gola {
+    #dot {
         height: 25px;
         width: 25px;
         border-radius: 50%;
@@ -588,7 +586,6 @@ nav h3 {
     #page2-bottom {
         height: 90vh;
         width: 100%;
-        /* background-color: aliceblue; */
         padding: 10vw 4vw;
         display: flex;
         align-items: flex-start;
@@ -620,15 +617,12 @@ nav h3 {
         font-size: 3vw;
     }
 
-    #page2 #gooey {
+    #page2 #wobbly {
         height: 62vw;
         width: 62vw;
         position: absolute;
         border-radius: 50%;
         background: linear-gradient(to top right, #ff2d03, #ff5c0b);
-        /* background: linear-gradient(to top right,red,blue); */
-
-
         top: 58%;
         left: 25%;
         filter: blur(20px);
@@ -640,7 +634,39 @@ nav h3 {
 
     }
 
+    .swiper-slide p {
+        font-size: 3vw;
+    }
 
+    .swiper-slide {
+        height: 50%;
+    }
+
+    #page4 {
+        width: 100vh;
+        height: 50vh;
+    }
+
+    #footer-div {
+        display: block;
+        position: relative;
+        bottom: 30%;
+        padding-right: 1vw;
+    }
+
+    #footer-div .links {
+        position: absolute;
+    }
+
+    #footer-div .links h2 {
+        font-size: 15vw;
+    }
+
+    #footer-div #mail {
+        position: absolute;
+        width: 40%;
+        top: 150%;
+    }
 }
 
 #loader {
